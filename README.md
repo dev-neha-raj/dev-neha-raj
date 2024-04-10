@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neha Raj</h1>
+<h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-neha-raj&label=Profile%20views&color=0e75b6&style=flat" alt="dev-neha-raj" /> </p>
 
