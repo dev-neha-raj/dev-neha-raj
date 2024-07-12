@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-neha-raj" alt="dev-neha-raj" /></a> </p>
 
-- 🔭 I’m currently working on [hatchtag.design](https://github.com/hatchtag-design/hatchtag-website)
+- 🔭 I’m currently working on [hatchtag](https://github.com/hatchtag-design/hatchtag-website)
 
 - 🌱 I’m currently learning **React**
 
